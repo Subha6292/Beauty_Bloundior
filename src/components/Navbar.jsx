@@ -3,7 +3,7 @@
 export default function Navbar() {
     return (
         <div className="w-full flex items-center justify-between px-6 py-4 shadow-sm bg-white sticky top-0 z-50">
-        <div className="text-2xl font-bold">The <span className="font-light">Ordinary.</span></div>
+        <div className="text-2xl font-bold">The <span className="font-light">Beauty Bloundoir</span></div>
         <div className="hidden md:flex space-x-6 text-lg font-medium">
             <a href="/new">New</a>
             <a href="/sell">Bestsellers</a>
